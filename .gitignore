@@ -1,0 +1,4 @@
+.idea/
+x86_kernel/kernel32_x86.elf
+x86_kernel/mboot.o
+x86_kernel/kernel32_x86.bin
